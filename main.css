@@ -71,7 +71,7 @@ section {
 
 #face .profile-img {
     width: 250px;
-    border-radius: 20%; /* Add this line */
+    border-radius: 50%; /* Add this line */
 }
 
 footer {
@@ -90,6 +90,10 @@ a:link {
 a:visited {
   color: #1b7507;
   text-decoration: none!important;
+}
+
+a:header {
+    color: #1b7507;
 }
 
 </style>
