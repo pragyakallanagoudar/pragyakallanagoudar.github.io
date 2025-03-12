@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p align="center">
-<img src="/assets/images/profile.png" width="18%" />
+<img src="/assets/images/profile_6.JPEG" width="20%" />
 </p>
 
 Hello! I’m a fourth-year undergraduate at UC Berkeley studying CS & philosophy. I’m very grateful to be advised by [Sarah Chasins](https://schasins.com), [Eunice 
