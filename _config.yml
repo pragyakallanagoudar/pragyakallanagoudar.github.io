@@ -1,9 +1,0 @@
-title: "Pragya Kallanagoudar"
-theme: minima
-remote_theme: jekyll/minima
-
-header_pages:
-  - about.md  # Example of an existing page in navigation
-
-nav_links:
-  LinkedIn: "https://www.linkedin.com/in/pragya-kallanagoudar/"
