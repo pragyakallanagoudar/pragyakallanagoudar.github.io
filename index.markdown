@@ -4,6 +4,11 @@
 
 layout: home
 ---
+
+<p align="center">
+<img src="/assets/images/pkallanagoudar.jpeg" width="20%" style="border-radius: 2%;" />
+</p>
+
 Hello! I’m a fourth-year undergraduate at UC Berkeley studying CS & philosophy. I’m very grateful to be advised by [Sarah Chasins](https://schasins.com), [Eunice 
 Jun](http://eunicemjun.com), and [Rolando Garcia](https://rlnsanz.github.io).
 
